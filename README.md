@@ -2,7 +2,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you should run:
+
+### `npm install`
+
+Installs all the node modules and dependencies needed for the project to run successfully.
+
+### `json-server --watch db.json --port 3001`
+
+This creates a server with the json file which will serve as a database for the project.
 
 ### `npm start`
 
